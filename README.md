@@ -141,5 +141,3 @@ ss_df %>%
 ```
 
 ![image](https://user-images.githubusercontent.com/47543478/110873337-248fab80-8297-11eb-9c6c-f346ff946116.png)
-
-![image](https://user-images.githubusercontent.com/47543478/110873286-088c0a00-8297-11eb-89fe-6dabcdff00d7.png)
